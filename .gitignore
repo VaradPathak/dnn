@@ -9,6 +9,7 @@ __pycache__/
 .Python
 env/
 build/
+data/
 develop-eggs/
 dist/
 downloads/
@@ -55,3 +56,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Eclipse stuff
+.project
+.pydevproject
+
